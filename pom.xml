@@ -14,7 +14,7 @@
 	<description>WrestlingApp for study project</description>
 	<packaging>pom</packaging>
 	<modules>
-		<module>Wrestling</module>
 		<module>Wrestling-Frontend</module>
+		<module>Wrestling</module>
 	</modules>
 </project>
